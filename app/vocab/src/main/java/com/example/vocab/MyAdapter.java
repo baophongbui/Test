@@ -90,4 +90,6 @@ class Vocab implements Serializable {
         this.def = def;
         this.ipa = ipa;
     }
+
+
 }
